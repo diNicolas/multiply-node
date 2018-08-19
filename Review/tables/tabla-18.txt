@@ -1,0 +1,11 @@
+Multiplicar 0 * 18 = 0
+Multiplicar 1 * 18 = 18
+Multiplicar 2 * 18 = 36
+Multiplicar 3 * 18 = 54
+Multiplicar 4 * 18 = 72
+Multiplicar 5 * 18 = 90
+Multiplicar 6 * 18 = 108
+Multiplicar 7 * 18 = 126
+Multiplicar 8 * 18 = 144
+Multiplicar 9 * 18 = 162
+Multiplicar 10 * 18 = 180

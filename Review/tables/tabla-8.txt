@@ -1,0 +1,11 @@
+Multiplicar 0 * 8 = 0
+Multiplicar 1 * 8 = 8
+Multiplicar 2 * 8 = 16
+Multiplicar 3 * 8 = 24
+Multiplicar 4 * 8 = 32
+Multiplicar 5 * 8 = 40
+Multiplicar 6 * 8 = 48
+Multiplicar 7 * 8 = 56
+Multiplicar 8 * 8 = 64
+Multiplicar 9 * 8 = 72
+Multiplicar 10 * 8 = 80
